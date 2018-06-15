@@ -20,6 +20,10 @@
   }
 }
 
+a.md-link {
+  color: #282828;
+}
+
 .md-RichEditor-editor .public-DraftEditorPlaceholder-root,
 .md-RichEditor-editor .public-DraftEditor-content {
   margin: 0px -15px -15px;
@@ -35,13 +39,13 @@
 }
 
 .md-RichEditor-editor .md-RichEditor-blockquote {
-  border-left: 5px solid #4CA8DE;
-  color: #555;
-  //font-family: 'Hoefler Text', 'Georgia', serif;
+  color: #b9b9b9;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400;
   font-size: 1.2em;
   margin: 0;
-  padding: 10px 0 10px 20px;
-  background-color: #E2F2FF;
+  font-style: italic;
+  padding: 10px 0 10px 80px;
 }
 
 .md-RichEditor-blockquote {

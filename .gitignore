@@ -61,3 +61,5 @@ dist/
 hash.json
 lib/
 wiki/
+package-lock.json
+.gitignore
